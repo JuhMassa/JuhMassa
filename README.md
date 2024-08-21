@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhando em 
-- 🌱 Atualmente estou aprendendo ADS
+- 🔭 Estou em um momento de transição e aberta a explorar novos caminhos e oportunidades. Se você tiver alguma dica ou recomendação, por favor, compartilhe!
+- 🌱 Atualmente estou aprendendo Análise e Desenvolvimento de Sistemas , Banco de Dados (SQL), Internet of Things (IOT).
 - 👯 Estou procurando colaborar em 
 - 🤔 Estou procurando ajuda com...
 - 💬 Pergunte-me sobre...
