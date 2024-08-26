@@ -1,7 +1,10 @@
-## Hi there 👋
-# Hi
-## Hi
-### Hi
+
+![alt text](http://url/to/img.png)
+
+## Hi 
+
+
+
 
 
 **JuhMassa/JuhMassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
