@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhMassaIOT&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhMassa&show_icons=true&theme=dark)
 
 ![alt text](https://github.com/JuhMassa/JuhMassa/blob/main/senai-logo.png)
 
