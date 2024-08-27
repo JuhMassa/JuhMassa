@@ -1,4 +1,4 @@
-![juhMassaIOT GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhMassaIOT&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhMassaIOT&show_icons=true&theme=dark)
 
 ![alt text](https://github.com/JuhMassa/JuhMassa/blob/main/senai-logo.png)
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
-- <div style ="display: inline_block"><br/>
+<div style ="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
