@@ -3,6 +3,7 @@
 
 ## olá, eu sou a Jucelayne Massaneiro! 
 
+
 <div style ="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,8 +13,6 @@
 
 
 
-
-**JuhMassa/JuhMassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
