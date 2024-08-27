@@ -1,7 +1,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuhMassa&show_icons=true&theme=dark)
 ![alt text](https://github.com/JuhMassa/JuhMassa/blob/main/senai-logo.png)
 
-## Hi 
+## olá, eu sou a Jucelayne Massaneiro! 
+
+<div style ="display: inline_block"><br/>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</div>
 
 
 
