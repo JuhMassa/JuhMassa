@@ -1,3 +1,4 @@
+[![juhMassa GitHub stats](https://github-readme-stats.vercel.app/api?username=crisFiep)](https://github.com/crisFiep/github-readme-stats)
 
 ![alt text](https://github.com/JuhMassa/JuhMassa/blob/main/senai-logo.png)
 
